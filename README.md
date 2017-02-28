@@ -32,9 +32,6 @@
 *Qilk*
 * [Qilk Demos](http://demos.qlik.com/qliksense)
 
-*Charts*
-* [Interactive Chart Plots](https://plot.ly/)
-
 *Network Graph*
 * [NodeXL Graph](http://nodexl.codeplex.com/)
 
