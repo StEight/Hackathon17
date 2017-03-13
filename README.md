@@ -29,8 +29,10 @@
 
 ### Tools
 
-*Qilk*
-* [Qilk Demos](http://demos.qlik.com/qliksense)
+*Qlik*
+* [Qlik Demos](http://demos.qlik.com/qliksense)
+* [Qlik webapps Demos](http://webapps.qlik.com/#/)
+* [Sample: Management Overview Dashboard](http://webapps.qlik.com/CIO/index.html#/management/)
 
 *Network Graph*
 * [NodeXL Graph](http://nodexl.codeplex.com/)
