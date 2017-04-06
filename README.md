@@ -31,6 +31,9 @@ http://community.qlik.com/
 * [Sample: Management Overview Dashboard](http://webapps.qlik.com/CIO/index.html#/management/)
 
 ### Tableau
+Here is the download link which the user could use to download the Tableau for the upcoming Hackathon event.
+https://www.tableau.com/products/desktop
+
 * [Tableau Gallery](https://public.tableau.com/en-us/s/gallery), containing stunning visualisations made by public
 * [25 Great Visualisations made with Tableau](http://visualoop.com/blog/3199/25-great-data-visualizations-made-with-tableau-public)
 
