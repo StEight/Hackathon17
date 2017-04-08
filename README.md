@@ -1,43 +1,15 @@
 # Hackathon17
 
-### Qlik
-Here is the download link which the user could use to download the Qlik Sense app for the upcoming Hackathon event.
-http://www.qlik.com/us/try-or-buy/download-qlik-sense
- 
-The following are links to resources to help users get started.
- 
-New to Qlik Sense Videos:
-https://community.qlik.com/docs/DOC-6932
- 
- 
-Qlik Public Demo Site:
-http://sense-demo.qlik.com/
-http://webapps.qlik.com/
- 
- 
-Qlik extensions download for additional visualization charts (Location to place the downloaded extension is located at: C:\Users \Documents\Qlik\Sense\Extensions\Templates): 
-http://branch.qlik.com/
- 
- 
-Qlik Help Site:
-http://help.qlik.com/
- 
- 
-Qlik Community Site where people contribute ideas:
-http://community.qlik.com/
-
-* [Qlik Demos](http://demos.qlik.com/qliksense)
-* [Qlik webapps Demos](http://webapps.qlik.com/#/)
-* [Sample: Management Overview Dashboard](http://webapps.qlik.com/CIO/index.html#/management/)
+### Qlik Links
+[Refer to Qlik.md](Qlik.md)
 
 ### Tableau
-Here is the download link which the user could use to download the Tableau for the upcoming Hackathon event.
-https://www.tableau.com/products/desktop
+[Refer to Tableau.md](Tableau.md)
 
-* [Tableau Gallery](https://public.tableau.com/en-us/s/gallery), containing stunning visualisations made by public
-* [25 Great Visualisations made with Tableau](http://visualoop.com/blog/3199/25-great-data-visualizations-made-with-tableau-public)
+### Pre-Downloaded Datasets
+[Refer to Releases](https://github.com/StEight/Hackathon17/releases)
 
-### Datasets
+### Online Datasets
 
 *American Cities*
 * [3D] [NYC 3D Building Model](http://www1.nyc.gov/site/doitt/initiatives/3d-building.page)
