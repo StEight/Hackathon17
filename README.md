@@ -47,7 +47,12 @@ Graph visualisation library available [here](https://gephi.org/)
 *Javascripts*
 * [D3.js](https://d3js.org/) and gallery made with Javascripts
 * [Vis.js](http://visjs.org/)
+* [Sigma.js](https://github.com/jacomyal/sigma.js)
+* [Arbor.js](http://arborjs.org)
+* [Vivagraph.js](https://github.com/anvaka/VivaGraphJS)
+* [Javascript InfoVis Toolkit](ttps://philogb.github.io/jit/index.html)
 
 *Python*
 * [Matplotlib](http://matplotlib.org/)
 * [Plot.ly](https://plot.ly/feed/) gallery made with python and Matplotlib
+* [NetworkX](https://networkx.github.io)
