@@ -1,6 +1,9 @@
 ### Qlik
 Here is the download link which the user could use to download the Qlik Sense app for the upcoming Hackathon event.
 http://www.qlik.com/us/try-or-buy/download-qlik-sense
+
+Download Workshop Materials
+* [Basic](https://github.com/StEight/Hackathon17/releases/tag/0.10)
  
 * [New to Qlik Sense Videos](https://community.qlik.com/docs/DOC-6932)
 * [Qlik Public Demo Site](http://sense-demo.qlik.com/)
