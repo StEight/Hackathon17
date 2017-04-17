@@ -5,6 +5,7 @@ http://www.qlik.com/us/try-or-buy/download-qlik-sense
 Download Workshop Materials
 * [Basic](https://github.com/StEight/Hackathon17/releases/tag/0.10)
  
+Other supporting Materials
 * [New to Qlik Sense Videos](https://community.qlik.com/docs/DOC-6932)
 * [Qlik Public Demo Site](http://sense-demo.qlik.com/)
 * Qlik extensions download for additional visualization charts (Location to place the downloaded extension is located at: C:\Users \Documents\Qlik\Sense\Extensions\Templates): 
