@@ -4,6 +4,11 @@ http://www.qlik.com/us/try-or-buy/download-qlik-sense
 
 Download Workshop Materials
 * [Basic](https://github.com/StEight/Hackathon17/releases/tag/0.10)
+
+Additional Apps and Extensions to Download for reference
+E.g. Geoanalytics, Star Wars, Pokemon
+* [Apps](https://github.com/StEight/Hackathon17/releases/tag/0.11)
+* [Extensions](https://github.com/StEight/Hackathon17/releases/tag/0.12)
  
 Other supporting Materials
 * [New to Qlik Sense Videos](https://community.qlik.com/docs/DOC-6932)
