@@ -9,6 +9,7 @@
 ### PowerBI Links
 * [Workshop Agenda](https://github.com/StEight/Hackathon17/blob/master/PowerBI-Workshop_Agenda.pdf)
 * [Speaker Profile](https://github.com/StEight/Hackathon17/blob/master/Prakash%20Sawant_Speaker%20Profile.pdf)
+* [Workshop Files](https://1drv.ms/u/s!AttAoBe0IlpyjLAebAI2KMx9gjcd_w)
 
 ### Pre-Downloaded Datasets
 [Refer to Releases](https://github.com/StEight/Hackathon17/releases)
