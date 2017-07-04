@@ -6,6 +6,10 @@
 ### Tableau
 [Refer to Tableau.md](Tableau.md)
 
+### PowerBI Links
+* [Workshop Agenda](https://github.com/StEight/Hackathon17/blob/master/PowerBI-Workshop_Agenda.pdf)
+* [Speaker Profile](https://github.com/StEight/Hackathon17/blob/master/Prakash%20Sawant_Speaker%20Profile.pdf)
+
 ### Pre-Downloaded Datasets
 [Refer to Releases](https://github.com/StEight/Hackathon17/releases)
 
